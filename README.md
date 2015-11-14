@@ -20,4 +20,4 @@ FsWatcher is easy to use (please see godoc for more details):
 	})
 	w.Watch()
     
-*FsWatcher was initially developped for the [gobot](http://github.com/fjecker/gobot) project and was written while learning/discovering go* 
+*FsWatcher was initially developped for the [gobot](http://github.com/fredjeck/gobot) project and was written while learning/discovering go* 
